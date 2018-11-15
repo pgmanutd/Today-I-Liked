@@ -11,3 +11,4 @@
 - [RxViz - Animated playground for Rx Observables](https://rxviz.com/) 
 - [piotrwitek/react-redux-typescript-guide: The complete guide to static typing in "React & Redux" apps using TypeScript](https://github.com/piotrwitek/react-redux-typescript-guide) 
 - [Sticky Footer, Five Ways | CSS-Tricks](https://css-tricks.com/couple-takes-sticky-footer/) 
+- [advanced-react-patterns-v2 - CodeSandbox](https://codesandbox.io/s/github/kentcdodds/advanced-react-patterns-v2/tree/egghead/?from-embed) 
