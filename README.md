@@ -17,3 +17,4 @@
 - [GRID: A simple visual cheatsheet for CSS Grid Layout](http://grid.malven.co/) 
 - [Didact Fiber: Incremental reconciliation – Hexacta Engineering](https://engineering.hexacta.com/didact-fiber-incremental-reconciliation-b2fe028dcaec) 
 - [Don't use flexbox for overall page layout - JakeArchibald.com](https://jakearchibald.com/2014/dont-use-flexbox-for-page-layout/) 
+- [hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!](https://github.com/hemanth/functional-programming-jargon) 
