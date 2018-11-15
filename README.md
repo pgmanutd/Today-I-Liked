@@ -12,3 +12,4 @@
 - [piotrwitek/react-redux-typescript-guide: The complete guide to static typing in "React & Redux" apps using TypeScript](https://github.com/piotrwitek/react-redux-typescript-guide) 
 - [Sticky Footer, Five Ways | CSS-Tricks](https://css-tricks.com/couple-takes-sticky-footer/) 
 - [advanced-react-patterns-v2 - CodeSandbox](https://codesandbox.io/s/github/kentcdodds/advanced-react-patterns-v2/tree/egghead/?from-embed) 
+- [13 Killer Ways to Center elements with CSS - Digital Fortress](https://digitalfortress.tech/tricks/13-killer-ways-to-center-elements-with-css/) 
