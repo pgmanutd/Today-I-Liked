@@ -15,3 +15,4 @@
 - [13 Killer Ways to Center elements with CSS - Digital Fortress](https://digitalfortress.tech/tricks/13-killer-ways-to-center-elements-with-css/) 
 - [GoogleChromeLabs/webpack-libs-optimizations: Using a library in your webpack project? Here’s how to optimize it](https://github.com/GoogleChromeLabs/webpack-libs-optimizations#react) 
 - [GRID: A simple visual cheatsheet for CSS Grid Layout](http://grid.malven.co/) 
+- [Didact Fiber: Incremental reconciliation – Hexacta Engineering](https://engineering.hexacta.com/didact-fiber-incremental-reconciliation-b2fe028dcaec) 
