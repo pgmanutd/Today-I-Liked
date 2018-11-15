@@ -9,3 +9,4 @@
 - [Recommendations for best practices regarding action-creators, reducers, and selectors · Issue #1171 · reduxjs/redux](https://github.com/reduxjs/redux/issues/1171) 
 - [Scaling your Redux App with ducks – freeCodeCamp.org](https://medium.freecodecamp.org/scaling-your-redux-app-with-ducks-6115955638be) 
 - [RxViz - Animated playground for Rx Observables](https://rxviz.com/) 
+- [piotrwitek/react-redux-typescript-guide: The complete guide to static typing in "React & Redux" apps using TypeScript](https://github.com/piotrwitek/react-redux-typescript-guide) 
