@@ -6,6 +6,7 @@
 
 ### November 19, 2018 
 - [Node v11.2.0 (Current) | Node.js](https://nodejs.org/en/blog/release/v11.2.0/) 
+- [React Conf recap: Hooks, Suspense, and Concurrent Rendering – React Blog](https://reactjs.org/blog/2018/11/13/react-conf-recap.html) 
 ### November 16, 2018 
 - [Home  |  web.dev](https://web.dev/) 
 - [sokra/rawact: [POC] A babel plugin which compiles React.js components into native DOM instructions to eliminate the need for the react library at runtime.](https://github.com/sokra/rawact) 
