@@ -4,6 +4,9 @@
 [Extension](https://chrome.google.com/webstore/detail/like-on-github/fbkngleiiccokoifohhjhlagkejlphkj) used for below bookmarks.
 
 
+
+### November 20, 2018 
+- [Measure Performance with the RAIL Model  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/performance/rail) 
 ### November 19, 2018 
 - [Node v11.2.0 (Current) | Node.js](https://nodejs.org/en/blog/release/v11.2.0/) 
 - [React Conf recap: Hooks, Suspense, and Concurrent Rendering – React Blog](https://reactjs.org/blog/2018/11/13/react-conf-recap.html) 
