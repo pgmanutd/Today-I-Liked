@@ -8,6 +8,7 @@
 
 ### November 21, 2018 
 - [WAI-ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices/) 
+- [Style focus  |  web.dev](https://web.dev/accessible/style-focus) 
 ### November 20, 2018 
 - [Measure Performance with the RAIL Model  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/performance/rail) 
 ### November 19, 2018 
