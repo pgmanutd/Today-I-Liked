@@ -6,6 +6,9 @@
 
 
 
+
+### November 22, 2018 
+- [Installing your friend's VS Code extensions... - DEV Community 👩‍💻👨‍💻](https://dev.to/larsklopstra/installing-your-friends-vs-code-extensions-44b) 
 ### November 21, 2018 
 - [WAI-ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices/) 
 - [Style focus  |  web.dev](https://web.dev/accessible/style-focus) 
