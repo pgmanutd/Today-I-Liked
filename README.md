@@ -10,6 +10,7 @@
 ### November 22, 2018 
 - [Installing your friend's VS Code extensions... - DEV Community 👩‍💻👨‍💻](https://dev.to/larsklopstra/installing-your-friends-vs-code-extensions-44b) 
 - [What's New In DevTools (Chrome 70)  |  Web  |  Google Developers](https://developers.google.com/web/updates/2018/08/devtools#nodes) 
+- [CSS and Network Performance – CSS Wizardry – CSS Architecture, Web Performance Optimisation, and more, by Harry Roberts](https://csswizardry.com/2018/11/css-and-network-performance/) 
 ### November 21, 2018 
 - [WAI-ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices/) 
 - [Style focus  |  web.dev](https://web.dev/accessible/style-focus) 
