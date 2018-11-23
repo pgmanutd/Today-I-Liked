@@ -11,6 +11,7 @@
 ### November 23, 2018 
 - [The Virtual DOM is slow. Meet the Memoized DOM – freeCodeCamp.org](https://medium.freecodecamp.org/the-virtual-dom-is-slow-meet-the-memoized-dom-bb19f546cc52) 
 - [20 HTML Elements for Better Text Semantics — SitePoint](https://www.sitepoint.com/20-html-elements-better-text-semantics/) 
+- [HTML Standard](https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-var-element) 
 ### November 22, 2018 
 - [Installing your friend's VS Code extensions... - DEV Community 👩‍💻👨‍💻](https://dev.to/larsklopstra/installing-your-friends-vs-code-extensions-44b) 
 - [What's New In DevTools (Chrome 70)  |  Web  |  Google Developers](https://developers.google.com/web/updates/2018/08/devtools#nodes) 
