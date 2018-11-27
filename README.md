@@ -11,6 +11,7 @@
 
 ### November 27, 2018 
 - [Evan You Previews Vue.js 3.0 🔥 – Vue Mastery – Medium](https://medium.com/vue-mastery/evan-you-previews-vue-js-3-0-ab063dec3547) 
+- [Inside Fiber: in-depth overview of the new reconciliation algorithm in React](https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e) 
 ### November 23, 2018 
 - [The Virtual DOM is slow. Meet the Memoized DOM – freeCodeCamp.org](https://medium.freecodecamp.org/the-virtual-dom-is-slow-meet-the-memoized-dom-bb19f546cc52) 
 - [20 HTML Elements for Better Text Semantics — SitePoint](https://www.sitepoint.com/20-html-elements-better-text-semantics/) 
