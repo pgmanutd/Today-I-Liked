@@ -12,6 +12,7 @@
 
 ### November 28, 2018 
 - [The how and why on React’s usage of linked list in Fiber](https://medium.com/dailyjs/the-how-and-why-on-reacts-usage-of-linked-list-in-fiber-67f1014d0eb7) 
+- [React 16.x Roadmap – React Blog](https://reactjs.org/blog/2018/11/27/react-16-roadmap.html) 
 ### November 27, 2018 
 - [Evan You Previews Vue.js 3.0 🔥 – Vue Mastery – Medium](https://medium.com/vue-mastery/evan-you-previews-vue-js-3-0-ab063dec3547) 
 - [Inside Fiber: in-depth overview of the new reconciliation algorithm in React](https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e) 
