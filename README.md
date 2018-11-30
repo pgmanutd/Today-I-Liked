@@ -11,6 +11,9 @@
 
 
 
+
+### December 1, 2018 
+- [trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms) 
 ### November 29, 2018 
 - [4 Types of Memory Leaks in JavaScript and How to Get Rid Of Them](https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/) 
 ### November 28, 2018 
