@@ -15,6 +15,7 @@
 
 ### December 3, 2018 
 - [ES2018: asynchronous iteration](http://2ality.com/2016/10/asynchronous-iteration.html) 
+- [tc39/proposal-async-iteration: Asynchronous iteration for JavaScript](https://github.com/tc39/proposal-async-iteration) 
 ### December 1, 2018 
 - [trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms) 
 ### November 29, 2018 
