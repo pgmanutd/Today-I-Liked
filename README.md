@@ -14,6 +14,9 @@
 
 
 
+
+### December 6, 2018 
+- [Functional JS with ES6 — Recursive Patterns – DailyJS – Medium](https://medium.com/dailyjs/functional-js-with-es6-recursive-patterns-b7d0813ef9e3) 
 ### December 5, 2018 
 - [How to make a simple memory game with themes in JavaScript using React hooks](https://medium.com/@ivan.icharts/how-to-make-a-simple-memory-game-with-themes-in-javascript-using-react-hooks-2ecfa9cffe4c) 
 - [Source/core/css/html.css - chromium/blink - Git at Google](https://chromium.googlesource.com/chromium/blink/+/master/Source/core/css/html.css) 
