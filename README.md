@@ -15,6 +15,9 @@
 
 
 
+
+### December 11, 2018 
+- [My Wishlist for Hot Reloading - Overreacted](https://overreacted.io/my-wishlist-for-hot-reloading/) 
 ### December 6, 2018 
 - [Functional JS with ES6 — Recursive Patterns – DailyJS – Medium](https://medium.com/dailyjs/functional-js-with-es6-recursive-patterns-b7d0813ef9e3) 
 - [Common combinators in JavaScript](https://gist.github.com/Avaq/1f0636ec5c8d6aed2e45) 
