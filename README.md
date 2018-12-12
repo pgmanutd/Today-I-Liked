@@ -16,6 +16,9 @@
 
 
 
+
+### December 13, 2018 
+- [The best front-end hacking cheatsheets — all in one place.](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a) 
 ### December 11, 2018 
 - [My Wishlist for Hot Reloading - Overreacted](https://overreacted.io/my-wishlist-for-hot-reloading/) 
 - [How Does setState Know What to Do? - Overreacted](https://overreacted.io/how-does-setstate-know-what-to-do/) 
