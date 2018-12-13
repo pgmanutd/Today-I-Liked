@@ -17,6 +17,9 @@
 
 
 
+
+### December 14, 2018 
+- [RFC: React Hooks by sebmarkbage · Pull Request #68 · reactjs/rfcs](https://github.com/reactjs/rfcs/pull/68#issuecomment-439314884) 
 ### December 13, 2018 
 - [The best front-end hacking cheatsheets — all in one place.](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a) 
 - [Collection Operations on Lazy Sequences in TypeScript with itiriri](https://spin.atomicobject.com/2018/12/11/collection-operations-typescript/?utm_source=feedblitz&utm_medium=FeedBlitzRss&utm_campaign=atomicspin) 
