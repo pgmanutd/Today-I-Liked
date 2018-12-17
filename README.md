@@ -18,6 +18,9 @@
 
 
 
+
+### December 18, 2018 
+- [Better NPM'ing, Tips and Tricks using NPM - Tom's Quest](http://www.tomsquest.com/blog/2018/10/better-npm-ing/) 
 ### December 14, 2018 
 - [RFC: React Hooks by sebmarkbage · Pull Request #68 · reactjs/rfcs](https://github.com/reactjs/rfcs/pull/68#issuecomment-439314884) 
 ### December 13, 2018 
