@@ -19,6 +19,9 @@
 
 
 
+
+### December 25, 2018 
+- [developit/htm: Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.](https://github.com/developit/htm) 
 ### December 18, 2018 
 - [Better NPM'ing, Tips and Tricks using NPM - Tom's Quest](http://www.tomsquest.com/blog/2018/10/better-npm-ing/) 
 ### December 14, 2018 
