@@ -20,6 +20,9 @@
 
 
 
+
+### January 16, 2019 
+- [Why I've stopped exporting defaults from my JavaScript modules - Human Who Codes](https://humanwhocodes.com/blog/2019/01/stop-using-default-exports-javascript-module/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nczonline+%28NCZOnline+-+The+Official+Web+Site+of+Nicholas+C.+Zakas%29) 
 ### December 25, 2018 
 - [developit/htm: Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.](https://github.com/developit/htm) 
 ### December 18, 2018 
