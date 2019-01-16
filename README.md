@@ -21,6 +21,9 @@
 
 
 
+
+### January 17, 2019 
+- [TypeScript Roadmap: Enhanced Type System, More Productivity, and Improved Linting](https://www.infoq.com/news/2019/01/typescript-2019-roadmap?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
 ### January 16, 2019 
 - [Why I've stopped exporting defaults from my JavaScript modules - Human Who Codes](https://humanwhocodes.com/blog/2019/01/stop-using-default-exports-javascript-module/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nczonline+%28NCZOnline+-+The+Official+Web+Site+of+Nicholas+C.+Zakas%29) 
 ### December 25, 2018 
