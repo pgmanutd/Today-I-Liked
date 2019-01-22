@@ -27,6 +27,7 @@
 - [Data fetching in React the functional way powered by TypeScript, io-ts &amp; fp-ts](http://blog.wolksoftware.com/data-fetching-in-react-the-functional-way-powered-by-typescript-io-ts-fp-ts) 
 - [Introducing The Component-Based API — Smashing Magazine](https://www.smashingmagazine.com/2019/01/introducing-component-based-api/) 
 - [API | fp-ts](https://gcanti.github.io/fp-ts/) 
+- [The Little Idea of Functional Programming — Jack Hsu](https://jaysoo.ca/2016/01/13/functional-programming-little-ideas/) 
 ### January 17, 2019 
 - [TypeScript Roadmap: Enhanced Type System, More Productivity, and Improved Linting](https://www.infoq.com/news/2019/01/typescript-2019-roadmap?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
 - [TypeScript Roadmap: January - June 2019 · Issue #29288 · Microsoft/TypeScript](https://github.com/Microsoft/TypeScript/issues/29288) 
