@@ -26,6 +26,7 @@
 
 ### January 25, 2019 
 - [The “Bug-O” Notation — Overreacted](https://overreacted.io/the-bug-o-notation/) 
+- [Getting Started With Worker Thread in NodeJS – Codeforgeek](https://codeforgeek.com/2019/01/getting-started-node-worker-thread/) 
 ### January 22, 2019 
 - [Data fetching in React the functional way powered by TypeScript, io-ts &amp; fp-ts](http://blog.wolksoftware.com/data-fetching-in-react-the-functional-way-powered-by-typescript-io-ts-fp-ts) 
 - [Introducing The Component-Based API — Smashing Magazine](https://www.smashingmagazine.com/2019/01/introducing-component-based-api/) 
