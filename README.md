@@ -30,6 +30,7 @@
 - [Why Isn’t X a Hook? — Overreacted](https://overreacted.io/why-isnt-x-a-hook/) 
 - [Table design patterns on the web](https://www.chenhuijing.com/blog/table-design-patterns-on-the-web/?fbclid=IwAR1_xip5suwEt4MO3Xxy0ly7aByHYjOXtXJxD3dMgtNL2_24eS9GQwJ4ySI#%F0%9F%92%BB) 
 - [Does your Interviewee Understand CSS Layouts? – Bits and Pieces](https://blog.bitsrc.io/how-to-check-the-understanding-of-css-layout-2325621491ad) 
+- [Exploring Structural Sharing and Copy-on-Write Semantics, Part I](http://raganwald.com/2019/01/14/structural-sharing-and-copy-on-write.html) 
 ### January 25, 2019 
 - [The “Bug-O” Notation — Overreacted](https://overreacted.io/the-bug-o-notation/) 
 - [Getting Started With Worker Thread in NodeJS – Codeforgeek](https://codeforgeek.com/2019/01/getting-started-node-worker-thread/) 
