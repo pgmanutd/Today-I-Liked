@@ -24,6 +24,9 @@
 
 
 
+
+### January 28, 2019 
+- [Structural Sharing and Copy-on-Write Semantics, Part II: Reduce-Reuse-Recycle](http://raganwald.com/2019/01/26/reduce-reuse-recycle.html) 
 ### January 25, 2019 
 - [The “Bug-O” Notation — Overreacted](https://overreacted.io/the-bug-o-notation/) 
 - [Getting Started With Worker Thread in NodeJS – Codeforgeek](https://codeforgeek.com/2019/01/getting-started-node-worker-thread/) 
