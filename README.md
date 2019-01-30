@@ -25,6 +25,9 @@
 
 
 
+
+### January 30, 2019 
+- [Node v10.15.1 (LTS) | Node.js](https://nodejs.org/en/blog/release/v10.15.1/) 
 ### January 28, 2019 
 - [Structural Sharing and Copy-on-Write Semantics, Part II: Reduce-Reuse-Recycle](http://raganwald.com/2019/01/26/reduce-reuse-recycle.html) 
 - [Why Isn’t X a Hook? — Overreacted](https://overreacted.io/why-isnt-x-a-hook/) 
