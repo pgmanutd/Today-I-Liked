@@ -29,6 +29,7 @@
 
 ### January 31, 2019 
 - [Vue 3.0 Updates - Google Slides](https://docs.google.com/presentation/d/1yhPGyhQrJcpJI2ZFvBme3pGKaGNiLi709c37svivv0o/preview?slide=id.p) 
+- [The 20 most popular open-source JavaScript projects on Github 2018 - FrontNet Blog](https://frontnet.eu/the-20-most-popular-open-source-javascript-projects-on-github-2018/) 
 ### January 30, 2019 
 - [Node v10.15.1 (LTS) | Node.js](https://nodejs.org/en/blog/release/v10.15.1/) 
 - [New in Chrome 72  |  Web  |  Google Developers](https://developers.google.com/web/updates/2019/01/nic72?utm_source=feed&utm_medium=feed&utm_campaign=updates_feed) 
