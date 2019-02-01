@@ -27,6 +27,9 @@
 
 
 
+
+### February 1, 2019 
+- [Announcing TypeScript 3.3 | TypeScript](https://blogs.msdn.microsoft.com/typescript/2019/01/31/announcing-typescript-3-3/) 
 ### January 31, 2019 
 - [Vue 3.0 Updates - Google Slides](https://docs.google.com/presentation/d/1yhPGyhQrJcpJI2ZFvBme3pGKaGNiLi709c37svivv0o/preview?slide=id.p) 
 - [The 20 most popular open-source JavaScript projects on Github 2018 - FrontNet Blog](https://frontnet.eu/the-20-most-popular-open-source-javascript-projects-on-github-2018/) 
