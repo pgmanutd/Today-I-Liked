@@ -33,6 +33,7 @@
 - [Why TypeScript is a better option than JavaScript when it comes to functional programming?](http://blog.wolksoftware.com/why-typescript-is-a-better-option-than-javascript-when-it-comes-to-functional-programming) 
 - [JavaScript overtakes Java as most-known programming language | InfoWorld](https://www.infoworld.com/article/3337576/javascript/javascript-overtakes-java-as-most-known-language.html#tk.rss_javascript) 
 - [ECMAScript 2019: the final feature set | ECMAScript Daily](https://ecmascript-daily.github.io/2019/01/30/ecmascript-2019-the-final-feature-set) 
+- [HTML, CSS and our vanishing industry entry points](https://www.rachelandrew.co.uk/archives/2019/01/30/html-css-and-our-vanishing-industry-entry-points/) 
 ### January 31, 2019 
 - [Vue 3.0 Updates - Google Slides](https://docs.google.com/presentation/d/1yhPGyhQrJcpJI2ZFvBme3pGKaGNiLi709c37svivv0o/preview?slide=id.p) 
 - [The 20 most popular open-source JavaScript projects on Github 2018 - FrontNet Blog](https://frontnet.eu/the-20-most-popular-open-source-javascript-projects-on-github-2018/) 
