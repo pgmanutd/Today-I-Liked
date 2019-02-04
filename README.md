@@ -28,6 +28,9 @@
 
 
 
+
+### February 4, 2019 
+- [Protecting Your React.js Source Code with Jscrambler | Jscrambler Blog](https://blog.jscrambler.com/protecting-your-react-js-source-code-with-jscrambler/) 
 ### February 1, 2019 
 - [Announcing TypeScript 3.3 | TypeScript](https://blogs.msdn.microsoft.com/typescript/2019/01/31/announcing-typescript-3-3/) 
 - [Why TypeScript is a better option than JavaScript when it comes to functional programming?](http://blog.wolksoftware.com/why-typescript-is-a-better-option-than-javascript-when-it-comes-to-functional-programming) 
