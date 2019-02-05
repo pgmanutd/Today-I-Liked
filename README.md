@@ -36,6 +36,7 @@
 - [CSS :placeholder-shown](https://davidwalsh.name/placeholder-shown) 
 - [streamich/react-use: React Hooks — 👍](https://github.com/streamich/react-use) 
 - [Most Popular Node.js Frameworks in 2019 - Web Design and Web Development](https://www.ma-no.org/en/content/index_most-popular-node-js-frameworks-in-2019_2391.php?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+ma-no+%28ma-no.org%29) 
+- [TypeScript vs Flow with React in the background](https://areknawo.com/typescript-vs-flow-with-react-in-the-background/) 
 ### February 4, 2019 
 - [Protecting Your React.js Source Code with Jscrambler | Jscrambler Blog](https://blog.jscrambler.com/protecting-your-react-js-source-code-with-jscrambler/) 
 ### February 1, 2019 
