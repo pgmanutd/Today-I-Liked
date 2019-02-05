@@ -38,6 +38,7 @@
 - [Most Popular Node.js Frameworks in 2019 - Web Design and Web Development](https://www.ma-no.org/en/content/index_most-popular-node-js-frameworks-in-2019_2391.php?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+ma-no+%28ma-no.org%29) 
 - [TypeScript vs Flow with React in the background](https://areknawo.com/typescript-vs-flow-with-react-in-the-background/) 
 - [niieani/typescript-vs-flowtype: Differences between Flowtype and TypeScript -- syntax and usability](https://github.com/niieani/typescript-vs-flowtype) 
+- [30 Most Common Acronyms In The Web Industry - FrontNet Blog](https://frontnet.eu/30-most-common-acronyms-in-the-web-industry/) 
 ### February 4, 2019 
 - [Protecting Your React.js Source Code with Jscrambler | Jscrambler Blog](https://blog.jscrambler.com/protecting-your-react-js-source-code-with-jscrambler/) 
 ### February 1, 2019 
