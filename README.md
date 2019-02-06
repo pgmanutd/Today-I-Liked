@@ -35,6 +35,7 @@
 - [Using JavaScript modules on the web  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/primers/modules) 
 - [Worklets Level 1](https://drafts.css-houdini.org/worklets/) 
 - [postcss-preset-env](https://preset-env.cssdb.org/features#stage-0) 
+- [React v16.8: The One With Hooks – React Blog](https://reactjs.org/blog/2019/02/06/react-v16.8.0.html) 
 ### February 5, 2019 
 - [Build Better Component Libraries with Styled System](https://medium.com/styled-components/build-better-component-libraries-with-styled-system-4951653d54ee) 
 - [What's new in ECMAScript 2019 | pawelgrzybek.com](https://pawelgrzybek.com/whats-new-in-ecmascript-2019/) 
