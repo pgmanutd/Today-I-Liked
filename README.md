@@ -32,6 +32,9 @@
 
 
 
+
+### February 11, 2019 
+- [Read JavaScript Source Code, Using an AST ← Alligator.io](https://alligator.io/js/traversing-ast/) 
 ### February 7, 2019 
 - [vasanthk/css-refresher-notes: CSS Refresher!](https://github.com/vasanthk/css-refresher-notes) 
 ### February 6, 2019 
