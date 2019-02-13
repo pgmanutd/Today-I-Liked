@@ -37,6 +37,7 @@
 
 ### February 14, 2019 
 - [Fast properties in V8 · V8](https://v8.dev/blog/fast-properties) 
+- [Optimizing Compiler: Component Folding · Issue #7323 · facebook/react](https://github.com/facebook/react/issues/7323) 
 ### February 13, 2019 
 - [What's New In DevTools (Chrome 72)  |  Web  |  Google Developers](https://developers.google.com/web/updates/2018/11/devtools) 
 ### February 11, 2019 
