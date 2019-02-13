@@ -33,6 +33,9 @@
 
 
 
+
+### February 13, 2019 
+- [What's New In DevTools (Chrome 72)  |  Web  |  Google Developers](https://developers.google.com/web/updates/2018/11/devtools) 
 ### February 11, 2019 
 - [Read JavaScript Source Code, Using an AST ← Alligator.io](https://alligator.io/js/traversing-ast/) 
 - [JSX can do that? – Hexacta Engineering](https://engineering.hexacta.com/jsx-can-do-that-1b2666c23a32) 
