@@ -35,6 +35,9 @@
 
 
 
+
+### February 17, 2019 
+- [Jest 24 Improves TypeScript Support, Plans Migration to TypeScript](https://www.infoq.com/news/2019/02/jest24-typescript?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
 ### February 14, 2019 
 - [Fast properties in V8 · V8](https://v8.dev/blog/fast-properties) 
 - [Optimizing Compiler: Component Folding · Issue #7323 · facebook/react](https://github.com/facebook/react/issues/7323) 
