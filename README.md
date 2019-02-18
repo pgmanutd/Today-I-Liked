@@ -36,6 +36,9 @@
 
 
 
+
+### February 19, 2019 
+- [How to write async await without try-catch blocks in Javascript](https://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/) 
 ### February 17, 2019 
 - [Jest 24 Improves TypeScript Support, Plans Migration to TypeScript](https://www.infoq.com/news/2019/02/jest24-typescript?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
 - [Google Chrome Never-Slow Mode](https://www.infoq.com/news/2019/02/chrome-never-slow-mode?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
