@@ -37,6 +37,9 @@
 
 
 
+
+### February 20, 2019 
+- [Which Javascript frameworks will rule in 2019? - Web Design and Web Development](https://www.ma-no.org/en/content/index_which-javascript-frameworks-will-rule-in-2019_2421.php?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+ma-no+%28ma-no.org%29) 
 ### February 19, 2019 
 - [How to write async await without try-catch blocks in Javascript](https://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/) 
 - [How @supports Works | CSS-Tricks](https://css-tricks.com/how-supports-works/) 
