@@ -39,6 +39,9 @@
 
 
 
+
+### February 24, 2019 
+- [AddyOsmani.com - JavaScript Loading Priorities in Chrome](https://addyosmani.com/blog/script-priorities/) 
 ### February 22, 2019 
 - [TypeScript | Announcing TypeScript 3.2](https://devblogs.microsoft.com/typescript/announcing-typescript-3-2/) 
 ### February 20, 2019 
