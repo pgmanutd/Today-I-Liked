@@ -40,6 +40,9 @@
 
 
 
+
+### February 25, 2019 
+- [Goodbye Client Side JavaScript, Hello C#'s Blazor](https://www.infoq.com/presentations/blazor-javascript-net-mono?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
 ### February 24, 2019 
 - [AddyOsmani.com - JavaScript Loading Priorities in Chrome](https://addyosmani.com/blog/script-priorities/) 
 ### February 22, 2019 
