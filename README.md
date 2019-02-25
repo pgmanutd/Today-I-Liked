@@ -44,6 +44,7 @@
 ### February 25, 2019 
 - [Goodbye Client Side JavaScript, Hello C#'s Blazor](https://www.infoq.com/presentations/blazor-javascript-net-mono?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
 - [TSLint Deprecated to Focus Support on typescript-eslint](https://www.infoq.com/news/2019/02/tslint-deprecated-eslint?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
+- [How to Avoid DOM Blocking by localStorage and Other Culprits](https://www.sitepoint.com/avoiding-dom-blocking/) 
 ### February 24, 2019 
 - [AddyOsmani.com - JavaScript Loading Priorities in Chrome](https://addyosmani.com/blog/script-priorities/) 
 ### February 22, 2019 
