@@ -41,6 +41,9 @@
 
 
 
+
+### February 27, 2019 
+- [An Early Look at Angular 8: Get Ready for Opt-In IVY Preview](https://www.telerik.com/blogs/an-early-look-at-angular-8-get-ready-for-opt-in-ivy-preview) 
 ### February 25, 2019 
 - [Goodbye Client Side JavaScript, Hello C#'s Blazor](https://www.infoq.com/presentations/blazor-javascript-net-mono?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
 - [TSLint Deprecated to Focus Support on typescript-eslint](https://www.infoq.com/news/2019/02/tslint-deprecated-eslint?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
