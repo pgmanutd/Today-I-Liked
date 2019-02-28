@@ -45,6 +45,7 @@
 
 ### February 28, 2019 
 - [Did you know that CSS Custom Properties can handle images too? | CSS-Tricks](https://css-tricks.com/did-you-know-that-css-custom-properties-can-handle-images-too/) 
+- [6 Snippets to Keep in Your Chrome DevTools](https://www.telerik.com/blogs/6-snippets-to-keep-in-your-chrome-devtools) 
 ### February 27, 2019 
 - [An Early Look at Angular 8: Get Ready for Opt-In IVY Preview](https://www.telerik.com/blogs/an-early-look-at-angular-8-get-ready-for-opt-in-ivy-preview) 
 ### February 25, 2019 
