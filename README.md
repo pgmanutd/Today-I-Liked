@@ -46,6 +46,7 @@
 
 ### March 5, 2019 
 - [How Are Function Components Different from Classes? — Overreacted](https://overreacted.io/how-are-function-components-different-from-classes/) 
+- [Computer science in JavaScript: Circular Doubly-linked lists - Human Who Codes](https://humanwhocodes.com/blog/2019/03/computer-science-in-javascript-circular-doubly-linked-lists/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nczonline+%28NCZOnline+-+The+Official+Web+Site+of+Nicholas+C.+Zakas%29) 
 ### February 28, 2019 
 - [Did you know that CSS Custom Properties can handle images too? | CSS-Tricks](https://css-tricks.com/did-you-know-that-css-custom-properties-can-handle-images-too/) 
 - [6 Snippets to Keep in Your Chrome DevTools](https://www.telerik.com/blogs/6-snippets-to-keep-in-your-chrome-devtools) 
