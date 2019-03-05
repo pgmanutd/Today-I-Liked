@@ -43,6 +43,9 @@
 
 
 
+
+### March 5, 2019 
+- [How Are Function Components Different from Classes? — Overreacted](https://overreacted.io/how-are-function-components-different-from-classes/) 
 ### February 28, 2019 
 - [Did you know that CSS Custom Properties can handle images too? | CSS-Tricks](https://css-tricks.com/did-you-know-that-css-custom-properties-can-handle-images-too/) 
 - [6 Snippets to Keep in Your Chrome DevTools](https://www.telerik.com/blogs/6-snippets-to-keep-in-your-chrome-devtools) 
