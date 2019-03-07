@@ -44,6 +44,9 @@
 
 
 
+
+### March 7, 2019 
+- [WebAssembly. Neither Web Nor Assembly, All Revolutionary](https://www.infoq.com/presentations/webassembly-intro?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
 ### March 5, 2019 
 - [How Are Function Components Different from Classes? — Overreacted](https://overreacted.io/how-are-function-components-different-from-classes/) 
 - [Computer science in JavaScript: Circular Doubly-linked lists - Human Who Codes](https://humanwhocodes.com/blog/2019/03/computer-science-in-javascript-circular-doubly-linked-lists/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+nczonline+%28NCZOnline+-+The+Official+Web+Site+of+Nicholas+C.+Zakas%29) 
