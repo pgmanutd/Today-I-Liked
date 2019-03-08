@@ -45,6 +45,9 @@
 
 
 
+
+### March 8, 2019 
+- [Introduction to React 360 ← Alligator.io](https://alligator.io/react/react-360/) 
 ### March 7, 2019 
 - [WebAssembly. Neither Web Nor Assembly, All Revolutionary](https://www.infoq.com/presentations/webassembly-intro?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
 ### March 5, 2019 
