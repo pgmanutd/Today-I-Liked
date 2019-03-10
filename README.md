@@ -49,6 +49,7 @@
 
 ### March 11, 2019 
 - [Scheduling in React | Philipp Spiess](https://philippspiess.com/scheduling-in-react/) 
+- [Progressive React](https://houssein.me/progressive-react) 
 ### March 8, 2019 
 - [Introduction to React 360 ← Alligator.io](https://alligator.io/react/react-360/) 
 ### March 7, 2019 
