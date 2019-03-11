@@ -47,6 +47,9 @@
 
 
 
+
+### March 12, 2019 
+- [A Complete Guide to useEffect — Overreacted](https://overreacted.io/a-complete-guide-to-useeffect/) 
 ### March 11, 2019 
 - [Scheduling in React | Philipp Spiess](https://philippspiess.com/scheduling-in-react/) 
 - [Progressive React](https://houssein.me/progressive-react) 
