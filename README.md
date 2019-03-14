@@ -48,6 +48,9 @@
 
 
 
+
+### March 14, 2019 
+- [NPM Adopted Rust to Remove Performance Bottlenecks](https://www.infoq.com/news/2019/03/rust-npm-performance?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
 ### March 12, 2019 
 - [A Complete Guide to useEffect — Overreacted](https://overreacted.io/a-complete-guide-to-useeffect/) 
 ### March 11, 2019 
