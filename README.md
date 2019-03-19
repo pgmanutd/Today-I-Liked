@@ -60,6 +60,7 @@
 - [How to Use Chrome as an IDE](https://www.telerik.com/blogs/how-to-use-chrome-as-an-ide) 
 - [How to Style console.log Contents in Chrome DevTools](https://www.telerik.com/blogs/how-to-style-console-log-contents-in-chrome-devtools) 
 - [JavaScript loose comparison (==) step by step](https://felix-kling.de/js-loose-comparison/) 
+- [Update on Experimental Features in Node.js - NodeSource](https://nodesource.com/blog/experimental-features-in-node.js) 
 ### March 15, 2019 
 - [Vue.js 2.6 "Macross" Released with Improved Slots Syntax](https://www.infoq.com/news/2019/03/Vue-2.6-released?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
 ### March 14, 2019 
