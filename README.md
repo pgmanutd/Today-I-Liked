@@ -54,6 +54,7 @@
 ### March 19, 2019 
 - [Writing Resilient Components — Overreacted](https://overreacted.io/writing-resilient-components/) 
 - [Node v11.12.0 (Current) | Node.js](https://nodejs.org/en/blog/release/v11.12.0/) 
+- [Unit Testing Worker Functions](https://blog.cloudflare.com/unit-testing-worker-functions/) 
 ### March 15, 2019 
 - [Vue.js 2.6 "Macross" Released with Improved Slots Syntax](https://www.infoq.com/news/2019/03/Vue-2.6-released?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
 ### March 14, 2019 
