@@ -63,6 +63,7 @@
 - [Update on Experimental Features in Node.js - NodeSource](https://nodesource.com/blog/experimental-features-in-node.js) 
 - [7 things you should know when getting started with Serverless APIs | CSS-Tricks](https://css-tricks.com/7-things-you-should-know-when-getting-started-with-serverless-apis/) 
 - [10 npm Security Best Practices | Snyk](https://snyk.io/blog/ten-npm-security-best-practices/) 
+- [Designing An Aspect Ratio Unit For CSS — Smashing Magazine](https://www.smashingmagazine.com/2019/03/aspect-ratio-unit-css/) 
 ### March 15, 2019 
 - [Vue.js 2.6 "Macross" Released with Improved Slots Syntax](https://www.infoq.com/news/2019/03/Vue-2.6-released?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
 ### March 14, 2019 
