@@ -55,6 +55,7 @@
 
 ### March 23, 2019 
 - [Chromium Blog: Chrome 74 beta: reducing unwanted motion, private class fields, and feature policy API](https://blog.chromium.org/2019/03/chrome-74-beta-reducing-unwanted-motion.html) 
+- [A complete guide to threads in Node.js – LogRocket](https://blog.logrocket.com/a-complete-guide-to-threads-in-node-js-4fa3898fe74f) 
 ### March 20, 2019 
 - [Add useRouter hook for React 16.7+ by mjackson · Pull Request #6453 · ReactTraining/react-router](https://github.com/ReactTraining/react-router/pull/6453) 
 - [Super simple start to serverless](https://kentcdodds.com/blog/super-simple-start-to-serverless) 
