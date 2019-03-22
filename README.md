@@ -62,6 +62,7 @@
 - [TC39 – Specifying JavaScript.](https://tc39.github.io/#proposals) 
 - [The WHATWG Blog — Defining the WindowProxy, Window, and Location objects](https://blog.whatwg.org/windowproxy-window-and-location) 
 - [Array - 30 seconds of code](https://30secondsofcode.org/) 
+- [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/#box-sizing-reset) 
 ### March 20, 2019 
 - [Add useRouter hook for React 16.7+ by mjackson · Pull Request #6453 · ReactTraining/react-router](https://github.com/ReactTraining/react-router/pull/6453) 
 - [Super simple start to serverless](https://kentcdodds.com/blog/super-simple-start-to-serverless) 
