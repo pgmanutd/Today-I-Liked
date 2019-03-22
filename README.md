@@ -58,6 +58,7 @@
 - [A complete guide to threads in Node.js – LogRocket](https://blog.logrocket.com/a-complete-guide-to-threads-in-node-js-4fa3898fe74f) 
 - [Advanced Tooling for Web Components | CSS-Tricks](https://css-tricks.com/advanced-tooling-for-web-components/) 
 - [Release v7.0.0-beta.0 · reduxjs/react-redux](https://github.com/reduxjs/react-redux/releases/tag/v7.0.0-beta.0) 
+- [pika/web – A Future Without Webpack – Bram.us](https://www.bram.us/2019/03/20/pika-web-a-future-without-webpack/) 
 ### March 20, 2019 
 - [Add useRouter hook for React 16.7+ by mjackson · Pull Request #6453 · ReactTraining/react-router](https://github.com/ReactTraining/react-router/pull/6453) 
 - [Super simple start to serverless](https://kentcdodds.com/blog/super-simple-start-to-serverless) 
