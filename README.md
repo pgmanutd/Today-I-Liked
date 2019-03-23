@@ -64,6 +64,7 @@
 - [Array - 30 seconds of code](https://30secondsofcode.org/) 
 - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/#box-sizing-reset) 
 - [How to think and type in TypeScript](https://areknawo.com/how-to-think-and-type-in-typescript/) 
+- [Architecting UIs for Change](https://joreteg.com/blog/architecting-uis-for-change) 
 ### March 20, 2019 
 - [Add useRouter hook for React 16.7+ by mjackson · Pull Request #6453 · ReactTraining/react-router](https://github.com/ReactTraining/react-router/pull/6453) 
 - [Super simple start to serverless](https://kentcdodds.com/blog/super-simple-start-to-serverless) 
