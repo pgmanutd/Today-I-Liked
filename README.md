@@ -54,6 +54,9 @@
 
 
 
+
+### March 30, 2019 
+- [Announcing TypeScript 3.4 | TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-3-4/) 
 ### March 28, 2019 
 - [A Quick Introduction to Hyperapp ← Alligator.io](https://alligator.io/js/hyperapp/) 
 - [Next Genpm | CSS-Tricks](https://css-tricks.com/next-genpm/) 
