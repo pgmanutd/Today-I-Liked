@@ -55,6 +55,9 @@
 
 
 
+
+### April 1, 2019 
+- [TypeScript 3.4 Supports Incremental Builds and globalThis](https://www.infoq.com/news/2019/03/typescript-3-4-release?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
 ### March 30, 2019 
 - [Announcing TypeScript 3.4 | TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-3-4/) 
 - [React Native 0.59 released with hooks - FrontNet Blog](https://frontnet.eu/react-native-0-59-released-with-hooks/) 
