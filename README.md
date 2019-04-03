@@ -56,6 +56,9 @@
 
 
 
+
+### April 3, 2019 
+- [Sassy Z-Index Management For Complex Layouts — Smashing Magazine](https://www.smashingmagazine.com/2014/06/sassy-z-index-management-for-complex-layouts/) 
 ### April 1, 2019 
 - [TypeScript 3.4 Supports Incremental Builds and globalThis](https://www.infoq.com/news/2019/03/typescript-3-4-release?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
 - [Mozilla’s WASI takes WebAssembly beyond the browser | InfoWorld](https://www.infoworld.com/article/3384920/mozillas-wasi-takes-webassembly-beyond-the-browser.html#tk.rss_javascript) 
