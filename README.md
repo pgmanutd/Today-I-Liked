@@ -57,6 +57,9 @@
 
 
 
+
+### April 5, 2019 
+- [Revisiting the rendering tier | Info | The Guardian](https://www.theguardian.com/info/2019/apr/04/revisiting-the-rendering-tier) 
 ### April 3, 2019 
 - [Sassy Z-Index Management For Complex Layouts — Smashing Magazine](https://www.smashingmagazine.com/2014/06/sassy-z-index-management-for-complex-layouts/) 
 ### April 1, 2019 
