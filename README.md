@@ -58,6 +58,9 @@
 
 
 
+
+### April 8, 2019 
+- [Using npm tags - Josh Bavari's Ramblings](http://jbavari.github.io/blog/2015/10/16/using-npm-tags/) 
 ### April 5, 2019 
 - [Revisiting the rendering tier | Info | The Guardian](https://www.theguardian.com/info/2019/apr/04/revisiting-the-rendering-tier) 
 ### April 3, 2019 
