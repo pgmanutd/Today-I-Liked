@@ -62,6 +62,7 @@
 
 ### April 9, 2019 
 - [How We Used WebAssembly To Speed Up Our Web App By 20X (Case Study) — Smashing Magazine](https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/) 
+- [Animation Performance 101: Browser Under the Hood | Viget](https://www.viget.com/articles/animation-performance-101-browser-under-the-hood/) 
 ### April 8, 2019 
 - [Using npm tags - Josh Bavari's Ramblings](http://jbavari.github.io/blog/2015/10/16/using-npm-tags/) 
 ### April 5, 2019 
