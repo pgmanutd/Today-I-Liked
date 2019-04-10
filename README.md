@@ -63,6 +63,7 @@
 
 ### April 10, 2019 
 - [Native image lazy-loading for the web with [loading=”lazy”] – Bram.us](https://www.bram.us/2019/04/08/native-image-lazy-loading-for-the-web-with-loadinglazy/) 
+- [Animation Performance 101: Optimizing Javascript | Viget](https://www.viget.com/articles/animation-performance-101-optimizing-javascript/) 
 ### April 9, 2019 
 - [How We Used WebAssembly To Speed Up Our Web App By 20X (Case Study) — Smashing Magazine](https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/) 
 - [Animation Performance 101: Browser Under the Hood | Viget](https://www.viget.com/articles/animation-performance-101-browser-under-the-hood/) 
