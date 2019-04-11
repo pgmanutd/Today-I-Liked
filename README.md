@@ -61,6 +61,9 @@
 
 
 
+
+### April 11, 2019 
+- [Managing dynamic z-index in component-based UI architecture | huy.dev](https://www.huy.dev/z-index-management-2019-04/) 
 ### April 10, 2019 
 - [Native image lazy-loading for the web with [loading=”lazy”] – Bram.us](https://www.bram.us/2019/04/08/native-image-lazy-loading-for-the-web-with-loadinglazy/) 
 - [Animation Performance 101: Optimizing Javascript | Viget](https://www.viget.com/articles/animation-performance-101-optimizing-javascript/) 
