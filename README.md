@@ -62,6 +62,9 @@
 
 
 
+
+### April 17, 2019 
+- [Why JavaScript? (Definitions, Uses & Benefits) - Snipcart](https://snipcart.com/blog/why-javascript-benefits) 
 ### April 11, 2019 
 - [Managing dynamic z-index in component-based UI architecture | huy.dev](https://www.huy.dev/z-index-management-2019-04/) 
 - [Managing Z-Index In A Component-Based Web Application — Smashing Magazine](https://www.smashingmagazine.com/2019/04/z-index-component-based-web-application/) 
