@@ -63,6 +63,9 @@
 
 
 
+
+### April 18, 2019 
+- [Optimizing Performance With Resource Hints — Smashing Magazine](https://www.smashingmagazine.com/2019/04/optimization-performance-resource-hints/) 
 ### April 17, 2019 
 - [Why JavaScript? (Definitions, Uses & Benefits) - Snipcart](https://snipcart.com/blog/why-javascript-benefits) 
 - [WebPack production environment is NOT the NODE_ENV or BABEL_ENV environment variable](http://jonathancreamer.com/webpack-production-environment-is-not-the-node_env-or-babel_env-environment-variable/) 
