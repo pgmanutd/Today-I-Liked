@@ -64,6 +64,9 @@
 
 
 
+
+### April 19, 2019 
+- [Faking env() to Use it Now | CSS-Tricks](https://css-tricks.com/faking-env-to-use-it-now/) 
 ### April 18, 2019 
 - [Optimizing Performance With Resource Hints — Smashing Magazine](https://www.smashingmagazine.com/2019/04/optimization-performance-resource-hints/) 
 - [What's what? - Package.json cheatsheet!](https://areknawo.com/whats-what-package-json-cheatsheet/) 
