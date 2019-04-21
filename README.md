@@ -66,6 +66,9 @@
 
 
 
+
+### April 21, 2019 
+- [Quickly understand how to improve the above-the-fold user experience of your applications | Dynatrace blog](https://www.dynatrace.com/news/blog/quickly-understand-how-to-improve-the-above-the-fold-user-experience-of-your-applications/) 
 ### April 20, 2019 
 - [Deep dive: How do React hooks really work? | Netlify](https://www.netlify.com/blog/2019/03/11/deep-dive-how-do-react-hooks-really-work/?utm_campaign=React%2BNewsletter&utm_medium=email&utm_source=React_Newsletter_157) 
 ### April 19, 2019 
