@@ -67,6 +67,9 @@
 
 
 
+
+### April 23, 2019 
+- [Front-end Developer Handbook 2019 - Learn the entire JavaScript, CSS and HTML development practice!](https://frontendmasters.com/books/front-end-handbook/2019/#1) 
 ### April 21, 2019 
 - [Quickly understand how to improve the above-the-fold user experience of your applications | Dynatrace blog](https://www.dynatrace.com/news/blog/quickly-understand-how-to-improve-the-above-the-fold-user-experience-of-your-applications/) 
 ### April 20, 2019 
