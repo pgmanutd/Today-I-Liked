@@ -71,6 +71,7 @@
 
 ### April 24, 2019 
 - [6 tips for better React performance – ITNEXT](https://itnext.io/6-tips-for-better-react-performance-4329d12c126b) 
+- [What’s new in the Node.js JavaScript runtime | InfoWorld](https://www.infoworld.com/article/3257673/whats-new-in-the-nodejs-javascript-runtime.html#tk.rss_javascript) 
 ### April 23, 2019 
 - [Front-end Developer Handbook 2019 - Learn the entire JavaScript, CSS and HTML development practice!](https://frontendmasters.com/books/front-end-handbook/2019/#1) 
 ### April 21, 2019 
