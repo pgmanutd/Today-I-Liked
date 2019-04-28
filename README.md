@@ -72,6 +72,7 @@
 
 ### April 28, 2019 
 - [How I Improved my Node Performances by 5 with the Profiler - Theodo](https://blog.theodo.com/2019/04/improve-node-performances-profiler/?utm_source=rss&utm_medium=rss&utm_campaign=improve-node-performances-profiler) 
+- [New in Chrome 74  |  Web  |  Google Developers](https://developers.google.com/web/updates/2019/04/nic74?utm_source=feed&utm_medium=feed&utm_campaign=updates_feed) 
 ### April 24, 2019 
 - [6 tips for better React performance – ITNEXT](https://itnext.io/6-tips-for-better-react-performance-4329d12c126b) 
 - [What’s new in the Node.js JavaScript runtime | InfoWorld](https://www.infoworld.com/article/3257673/whats-new-in-the-nodejs-javascript-runtime.html#tk.rss_javascript) 
