@@ -73,6 +73,7 @@
 
 ### May 2, 2019 
 - [Building the New facebook.com with React, GraphQL and Relay](https://developers.facebook.com/videos/2019/building-the-new-facebookcom-with-react-graphql-and-relay/) 
+- [Naming things to improve accessibility](https://hiddedevries.nl/en/blog/2019-04-18-naming-things-to-improve-accessibility?utm_source=CSS-Weekly&utm_campaign=Issue-360&utm_medium=email) 
 ### April 28, 2019 
 - [How I Improved my Node Performances by 5 with the Profiler - Theodo](https://blog.theodo.com/2019/04/improve-node-performances-profiler/?utm_source=rss&utm_medium=rss&utm_campaign=improve-node-performances-profiler) 
 - [New in Chrome 74  |  Web  |  Google Developers](https://developers.google.com/web/updates/2019/04/nic74?utm_source=feed&utm_medium=feed&utm_campaign=updates_feed) 
