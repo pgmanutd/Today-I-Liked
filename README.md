@@ -71,6 +71,9 @@
 
 
 
+
+### May 7, 2019 
+- [Comparing Native Blazor Components](https://www.telerik.com/blogs/comparing-native-blazor-components-to-wrapped-javascript-components) 
 ### May 2, 2019 
 - [Building the New facebook.com with React, GraphQL and Relay](https://developers.facebook.com/videos/2019/building-the-new-facebookcom-with-react-graphql-and-relay/) 
 - [Naming things to improve accessibility](https://hiddedevries.nl/en/blog/2019-04-18-naming-things-to-improve-accessibility?utm_source=CSS-Weekly&utm_campaign=Issue-360&utm_medium=email) 
