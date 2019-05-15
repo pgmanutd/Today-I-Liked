@@ -73,6 +73,9 @@
 
 
 
+
+### May 15, 2019 
+- [5 things you didn’t know about React DevTools – LogRocket](https://blog.logrocket.com/5-things-you-didnt-know-about-react-devtools-2c6e0ef22529) 
 ### May 13, 2019 
 - [GitHub gets a package registry | TechCrunch](https://techcrunch.com/2019/05/10/github-gets-a-package-registry/) 
 ### May 7, 2019 
