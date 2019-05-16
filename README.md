@@ -74,6 +74,9 @@
 
 
 
+
+### May 16, 2019 
+- [Announcing Microsoft Web Template Studio - Windows Developer Blog](https://blogs.windows.com/buildingapps/2019/05/15/announcing-microsoft-web-template-studio/) 
 ### May 15, 2019 
 - [5 things you didn’t know about React DevTools – LogRocket](https://blog.logrocket.com/5-things-you-didnt-know-about-react-devtools-2c6e0ef22529) 
 ### May 13, 2019 
