@@ -75,6 +75,9 @@
 
 
 
+
+### May 17, 2019 
+- [Announcing TypeScript 3.5 RC | TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-3-5-rc/) 
 ### May 16, 2019 
 - [Announcing Microsoft Web Template Studio - Windows Developer Blog](https://blogs.windows.com/buildingapps/2019/05/15/announcing-microsoft-web-template-studio/) 
 ### May 15, 2019 
