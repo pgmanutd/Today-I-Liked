@@ -76,6 +76,9 @@
 
 
 
+
+### May 20, 2019 
+- [sirdarckcat: [🌐💧💥] HTTP Cache Cross-Site Leaks](https://sirdarckcat.blogspot.com/2019/03/http-cache-cross-site-leaks.html) 
 ### May 17, 2019 
 - [Announcing TypeScript 3.5 RC | TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-3-5-rc/) 
 ### May 16, 2019 
