@@ -77,6 +77,9 @@
 
 
 
+
+### May 25, 2019 
+- [JavaScript Modules: A Brief History | Object Partners](https://objectpartners.com/2019/05/24/javascript-modules-a-brief-history/) 
 ### May 20, 2019 
 - [sirdarckcat: [🌐💧💥] HTTP Cache Cross-Site Leaks](https://sirdarckcat.blogspot.com/2019/03/http-cache-cross-site-leaks.html) 
 - [Faster script loading with BinaryAST?](https://blog.cloudflare.com/binary-ast/) 
