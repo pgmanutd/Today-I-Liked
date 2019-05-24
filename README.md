@@ -81,6 +81,7 @@
 ### May 25, 2019 
 - [JavaScript Modules: A Brief History | Object Partners](https://objectpartners.com/2019/05/24/javascript-modules-a-brief-history/) 
 - [Replacing JavaScript: How eBay made a web app 50x faster by switching programming languages - TechRepublic](https://www.techrepublic.com/article/replacing-javascript-with-webassembly-how-ebay-made-a-web-app-50x-faster-by-switching-programming-languages/) 
+- [Front-End Documentation, Style Guides and the Rise of MDX | CSS-Tricks](https://css-tricks.com/front-end-documentation-style-guides-and-the-rise-of-mdx/) 
 ### May 20, 2019 
 - [sirdarckcat: [🌐💧💥] HTTP Cache Cross-Site Leaks](https://sirdarckcat.blogspot.com/2019/03/http-cache-cross-site-leaks.html) 
 - [Faster script loading with BinaryAST?](https://blog.cloudflare.com/binary-ast/) 
