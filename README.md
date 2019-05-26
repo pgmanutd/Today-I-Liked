@@ -78,6 +78,9 @@
 
 
 
+
+### May 26, 2019 
+- [Elegant error handling with the JavaScript Either Monad](https://jrsinclair.com/articles/2019/elegant-error-handling-with-the-js-either-monad/) 
 ### May 25, 2019 
 - [JavaScript Modules: A Brief History | Object Partners](https://objectpartners.com/2019/05/24/javascript-modules-a-brief-history/) 
 - [Replacing JavaScript: How eBay made a web app 50x faster by switching programming languages - TechRepublic](https://www.techrepublic.com/article/replacing-javascript-with-webassembly-how-ebay-made-a-web-app-50x-faster-by-switching-programming-languages/) 
