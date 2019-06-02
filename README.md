@@ -79,6 +79,9 @@
 
 
 
+
+### June 3, 2019 
+- [Class Components in Vue are No Longer Happening ― Scotch.io](https://scotch.io/bar-talk/class-components-in-vue-are-no-longer-happening) 
 ### May 26, 2019 
 - [Elegant error handling with the JavaScript Either Monad](https://jrsinclair.com/articles/2019/elegant-error-handling-with-the-js-either-monad/) 
 ### May 25, 2019 
