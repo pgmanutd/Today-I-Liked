@@ -80,6 +80,9 @@
 
 
 
+
+### June 7, 2019 
+- [8 DOM features you didn’t know existed - LogRocket Blog](https://blog.logrocket.com/8-dom-features-you-didnt-know-existed-ec2a0a28fd89/) 
 ### June 3, 2019 
 - [Class Components in Vue are No Longer Happening ― Scotch.io](https://scotch.io/bar-talk/class-components-in-vue-are-no-longer-happening) 
 ### May 26, 2019 
