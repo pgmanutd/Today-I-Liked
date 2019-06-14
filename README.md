@@ -84,6 +84,7 @@
 
 ### June 14, 2019 
 - [Functional JavaScript: Traversing Trees with a Recursive Reduce](https://jrsinclair.com/articles/2019/functional-js-traversing-trees-with-recursive-reduce/) 
+- [How do you compose JavaScript functions with multiple parameters?](https://jrsinclair.com/articles/2019/compose-js-functions-multiple-parameters/) 
 ### June 7, 2019 
 - [8 DOM features you didn’t know existed - LogRocket Blog](https://blog.logrocket.com/8-dom-features-you-didnt-know-existed-ec2a0a28fd89/) 
 ### June 3, 2019 
