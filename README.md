@@ -85,6 +85,7 @@
 
 ### June 16, 2019 
 - [setImmediate() vs nextTick() vs setTimeout(fn,0) – in depth explanation | Void Canvas](http://voidcanvas.com/setimmediate-vs-nexttick-vs-settimeout/) 
+- [Tasks, microtasks, queues and schedules - JakeArchibald.com](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) 
 ### June 14, 2019 
 - [Functional JavaScript: Traversing Trees with a Recursive Reduce](https://jrsinclair.com/articles/2019/functional-js-traversing-trees-with-recursive-reduce/) 
 - [How do you compose JavaScript functions with multiple parameters?](https://jrsinclair.com/articles/2019/compose-js-functions-multiple-parameters/) 
