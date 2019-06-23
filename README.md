@@ -83,6 +83,9 @@
 
 
 
+
+### June 23, 2019 
+- [Why I don't use web components - DEV Community 👩‍💻👨‍💻](https://dev.to/richharris/why-i-don-t-use-web-components-2cia) 
 ### June 16, 2019 
 - [setImmediate() vs nextTick() vs setTimeout(fn,0) – in depth explanation | Void Canvas](http://voidcanvas.com/setimmediate-vs-nexttick-vs-settimeout/) 
 - [Tasks, microtasks, queues and schedules - JakeArchibald.com](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/) 
