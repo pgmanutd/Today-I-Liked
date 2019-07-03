@@ -87,6 +87,7 @@
 
 ### July 3, 2019 
 - [Combinator Birds](http://www.angelfire.com/tx4/cus/combinator/birds.html) 
+- [The cost of JavaScript in 2019 · V8](https://v8.dev/blog/cost-of-javascript-2019) 
 ### June 23, 2019 
 - [Why I don't use web components - DEV Community 👩‍💻👨‍💻](https://dev.to/richharris/why-i-don-t-use-web-components-2cia) 
 ### June 16, 2019 
