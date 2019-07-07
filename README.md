@@ -85,6 +85,9 @@
 
 
 
+
+### July 8, 2019 
+- [Events in React: What Do They Do? Do They Do Things?? Let’s Find Out!](https://medium.com/trabe/events-in-react-what-do-they-do-do-they-do-things-lets-find-out-9f1ac743b4c7) 
 ### July 3, 2019 
 - [Combinator Birds](http://www.angelfire.com/tx4/cus/combinator/birds.html) 
 - [The cost of JavaScript in 2019 · V8](https://v8.dev/blog/cost-of-javascript-2019) 
