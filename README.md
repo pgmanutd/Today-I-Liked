@@ -86,6 +86,9 @@
 
 
 
+
+### July 22, 2019 
+- [Algebraic Effects for the Rest of Us — Overreacted](https://overreacted.io/algebraic-effects-for-the-rest-of-us/) 
 ### July 8, 2019 
 - [Events in React: What Do They Do? Do They Do Things?? Let’s Find Out!](https://medium.com/trabe/events-in-react-what-do-they-do-do-they-do-things-lets-find-out-9f1ac743b4c7) 
 ### July 3, 2019 
