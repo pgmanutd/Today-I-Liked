@@ -90,6 +90,7 @@
 
 ### July 24, 2019 
 - [The Essential Guide To JavaScript’s Newest Data Type: BigInt — Smashing Magazine](https://www.smashingmagazine.com/2019/07/essential-guide-javascript-newest-data-type-bigint/) 
+- [A Peek at New Methods Coming to Promises - WBD](http://webuilddesign.com/a-peek-at-new-methods-coming-to-promises/) 
 ### July 22, 2019 
 - [Algebraic Effects for the Rest of Us — Overreacted](https://overreacted.io/algebraic-effects-for-the-rest-of-us/) 
 ### July 8, 2019 
