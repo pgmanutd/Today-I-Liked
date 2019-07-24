@@ -92,6 +92,7 @@
 - [The Essential Guide To JavaScript’s Newest Data Type: BigInt — Smashing Magazine](https://www.smashingmagazine.com/2019/07/essential-guide-javascript-newest-data-type-bigint/) 
 - [A Peek at New Methods Coming to Promises - WBD](http://webuilddesign.com/a-peek-at-new-methods-coming-to-promises/) 
 - [Dynamic Imports and F# Pipes Officially Land in Babel 7.5 ― Scotch.io](https://scotch.io/bar-talk/dynamic-imports-and-f-pipes-officially-land-in-babel-75) 
+- [Multi-Line Truncation with Pure CSS - WBD](http://webuilddesign.com/multi-line-truncation-with-pure-css/) 
 ### July 22, 2019 
 - [Algebraic Effects for the Rest of Us — Overreacted](https://overreacted.io/algebraic-effects-for-the-rest-of-us/) 
 ### July 8, 2019 
