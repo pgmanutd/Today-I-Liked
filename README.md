@@ -93,6 +93,7 @@
 - [A Peek at New Methods Coming to Promises - WBD](http://webuilddesign.com/a-peek-at-new-methods-coming-to-promises/) 
 - [Dynamic Imports and F# Pipes Officially Land in Babel 7.5 ― Scotch.io](https://scotch.io/bar-talk/dynamic-imports-and-f-pipes-officially-land-in-babel-75) 
 - [Multi-Line Truncation with Pure CSS - WBD](http://webuilddesign.com/multi-line-truncation-with-pure-css/) 
+- [matthewp/haunted: React's Hooks API implemented for web components 👻](https://github.com/matthewp/haunted) 
 ### July 22, 2019 
 - [Algebraic Effects for the Rest of Us — Overreacted](https://overreacted.io/algebraic-effects-for-the-rest-of-us/) 
 ### July 8, 2019 
