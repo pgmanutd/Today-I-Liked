@@ -88,6 +88,9 @@
 
 
 
+
+### July 25, 2019 
+- [Modern Script Loading](https://jasonformat.com/modern-script-loading/) 
 ### July 24, 2019 
 - [The Essential Guide To JavaScript’s Newest Data Type: BigInt — Smashing Magazine](https://www.smashingmagazine.com/2019/07/essential-guide-javascript-newest-data-type-bigint/) 
 - [A Peek at New Methods Coming to Promises - WBD](http://webuilddesign.com/a-peek-at-new-methods-coming-to-promises/) 
