@@ -92,6 +92,7 @@
 
 ### August 6, 2019 
 - [5 Tips to Help You Avoid React Hooks Pitfalls](https://kentcdodds.com/blog/react-hooks-pitfalls) 
+- [Avoid Nesting when you're Testing](https://kentcdodds.com/blog/avoid-nesting-when-youre-testing) 
 ### July 25, 2019 
 - [Modern Script Loading](https://jasonformat.com/modern-script-loading/) 
 ### July 24, 2019 
