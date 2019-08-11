@@ -90,6 +90,9 @@
 
 
 
+
+### August 12, 2019 
+- [MicheleBertoli/css-in-js: React: CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js) 
 ### August 6, 2019 
 - [5 Tips to Help You Avoid React Hooks Pitfalls](https://kentcdodds.com/blog/react-hooks-pitfalls) 
 - [Avoid Nesting when you're Testing](https://kentcdodds.com/blog/avoid-nesting-when-youre-testing) 
