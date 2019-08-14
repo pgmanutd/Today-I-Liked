@@ -91,6 +91,9 @@
 
 
 
+
+### August 14, 2019 
+- [A Future Without Webpack - DEV Community 👩‍💻👨‍💻](https://dev.to/pika/a-future-without-webpack-ago) 
 ### August 12, 2019 
 - [MicheleBertoli/css-in-js: React: CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js) 
 - [React v16.9.0 and the Roadmap Update – React Blog](https://reactjs.org/blog/2019/08/08/react-v16.9.0.html) 
