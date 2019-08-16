@@ -95,6 +95,7 @@
 
 ### August 16, 2019 
 - [How Does the Development Mode Work? — Overreacted](https://overreacted.io/how-does-the-development-mode-work/) 
+- [react/CHANGELOG.md at master · facebook/react](https://github.com/facebook/react/blob/master/packages/react-devtools/CHANGELOG.md#400-august-15-2019) 
 ### August 14, 2019 
 - [A Future Without Webpack - DEV Community 👩‍💻👨‍💻](https://dev.to/pika/a-future-without-webpack-ago) 
 ### August 12, 2019 
