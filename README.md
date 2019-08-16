@@ -92,6 +92,9 @@
 
 
 
+
+### August 16, 2019 
+- [How Does the Development Mode Work? — Overreacted](https://overreacted.io/how-does-the-development-mode-work/) 
 ### August 14, 2019 
 - [A Future Without Webpack - DEV Community 👩‍💻👨‍💻](https://dev.to/pika/a-future-without-webpack-ago) 
 ### August 12, 2019 
