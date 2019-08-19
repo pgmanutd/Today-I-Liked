@@ -93,6 +93,9 @@
 
 
 
+
+### August 19, 2019 
+- [The Differing Perspectives on CSS-in-JS | CSS-Tricks](https://css-tricks.com/the-differing-perspectives-on-css-in-js/) 
 ### August 16, 2019 
 - [How Does the Development Mode Work? — Overreacted](https://overreacted.io/how-does-the-development-mode-work/) 
 - [react/CHANGELOG.md at master · facebook/react](https://github.com/facebook/react/blob/master/packages/react-devtools/CHANGELOG.md#400-august-15-2019) 
