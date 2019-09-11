@@ -94,6 +94,9 @@
 
 
 
+
+### September 11, 2019 
+- [Microsoft Presents Static TypeScript, a Fast Subset of TypeScript Targeting Embedded Devices](https://www.infoq.com/news/2019/09/static-typescript-msft-paper/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
 ### August 19, 2019 
 - [The Differing Perspectives on CSS-in-JS | CSS-Tricks](https://css-tricks.com/the-differing-perspectives-on-css-in-js/) 
 ### August 16, 2019 
