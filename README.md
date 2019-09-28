@@ -95,6 +95,9 @@
 
 
 
+
+### September 29, 2019 
+- [HTTP/3: the past, the present, and the future](https://blog.cloudflare.com/http3-the-past-present-and-future/) 
 ### September 11, 2019 
 - [Microsoft Presents Static TypeScript, a Fast Subset of TypeScript Targeting Embedded Devices](https://www.infoq.com/news/2019/09/static-typescript-msft-paper/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
 - [Caniuse and MDN compatibility data collaboration - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2019/09/caniuse-and-mdn-compat-data-collaboration/) 
