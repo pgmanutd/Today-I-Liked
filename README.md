@@ -96,6 +96,9 @@
 
 
 
+
+### October 3, 2019 
+- [TypeScript 3.7 beta debuts with optional chaining | InfoWorld](https://www.infoworld.com/article/3443039/typescript-37-beta-debuts-with-optional-chaining.html#tk.rss_javascript) 
 ### September 29, 2019 
 - [HTTP/3: the past, the present, and the future](https://blog.cloudflare.com/http3-the-past-present-and-future/) 
 - [An Explanation of How the Intersection Observer Watches | CSS-Tricks](https://css-tricks.com/an-explanation-of-how-the-intersection-observer-watches/) 
