@@ -97,6 +97,9 @@
 
 
 
+
+### October 4, 2019 
+- [Running WASI in the Browser and Node.js With Wasmer-JS](https://www.infoq.com/news/2019/10/wasmer-js-wasi-wasm-browser/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
 ### October 3, 2019 
 - [TypeScript 3.7 beta debuts with optional chaining | InfoWorld](https://www.infoworld.com/article/3443039/typescript-37-beta-debuts-with-optional-chaining.html#tk.rss_javascript) 
 ### September 29, 2019 
