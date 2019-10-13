@@ -98,6 +98,9 @@
 
 
 
+
+### October 13, 2019 
+- [Images Are Not Static Content | CSS-Tricks](https://css-tricks.com/images-are-not-static-content/) 
 ### October 4, 2019 
 - [Running WASI in the Browser and Node.js With Wasmer-JS](https://www.infoq.com/news/2019/10/wasmer-js-wasi-wasm-browser/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
 ### October 3, 2019 
