@@ -99,6 +99,9 @@
 
 
 
+
+### October 21, 2019 
+- [8 Ways to Style React Components Compared — SitePoint](https://www.sitepoint.com/react-components-styling-options/?utm_source=rss) 
 ### October 13, 2019 
 - [Images Are Not Static Content | CSS-Tricks](https://css-tricks.com/images-are-not-static-content/) 
 ### October 4, 2019 
