@@ -101,6 +101,9 @@
 
 
 
+
+### November 1, 2019 
+- [ReactiveConf 2019 - TypeScript, Seeing Past the Hype](https://www.infoq.com/news/2019/10/typescript-hype-reactiveconf/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
 ### October 23, 2019 
 - [Preparing for the Future with React Prereleases – React Blog](https://reactjs.org/blog/2019/10/22/react-release-channels.html) 
 ### October 21, 2019 
