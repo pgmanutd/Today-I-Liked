@@ -102,6 +102,9 @@
 
 
 
+
+### November 11, 2019 
+- [Building Great User Experiences with Concurrent Mode and Suspense – React Blog](https://reactjs.org/blog/2019/11/06/building-great-user-experiences-with-concurrent-mode-and-suspense.html) 
 ### November 1, 2019 
 - [ReactiveConf 2019 - TypeScript, Seeing Past the Hype](https://www.infoq.com/news/2019/10/typescript-hype-reactiveconf/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
 - [Announcing TypeScript 3.7 RC | TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-3-7-rc/) 
