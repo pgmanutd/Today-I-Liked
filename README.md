@@ -103,6 +103,9 @@
 
 
 
+
+### November 21, 2019 
+- [Algebraic Data Types: Things I wish someone had explained about functional programming](https://jrsinclair.com/articles/2019/algebraic-data-types-what-i-wish-someone-had-explained-about-functional-programming/) 
 ### November 11, 2019 
 - [Building Great User Experiences with Concurrent Mode and Suspense – React Blog](https://reactjs.org/blog/2019/11/06/building-great-user-experiences-with-concurrent-mode-and-suspense.html) 
 ### November 1, 2019 
