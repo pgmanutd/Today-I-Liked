@@ -104,6 +104,9 @@
 
 
 
+
+### December 9, 2019 
+- [WebAssembly Core is now an official web standard - SD Times](https://sdtimes.com/webdev/webassembly-core-is-now-an-official-web-standard/) 
 ### November 21, 2019 
 - [Algebraic Data Types: Things I wish someone had explained about functional programming](https://jrsinclair.com/articles/2019/algebraic-data-types-what-i-wish-someone-had-explained-about-functional-programming/) 
 ### November 11, 2019 
