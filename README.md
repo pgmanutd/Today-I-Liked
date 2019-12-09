@@ -109,6 +109,7 @@
 - [WebAssembly Core is now an official web standard - SD Times](https://sdtimes.com/webdev/webassembly-core-is-now-an-official-web-standard/) 
 - [The Theistic Irreducible Complexity Argument Debunked Using… Computer Science? - Qvault](https://qvault.io/2019/12/05/gods-irreducible-complexity-debunked-using-computer-science/?utm_source=rss&utm_medium=rss&utm_campaign=gods-irreducible-complexity-debunked-using-computer-science) 
 - [JavaScript, ES6, ES7, ES10 where are we? - Engineered @ Publicis Sapient - Medium](https://medium.com/engineered-publicis-sapient/javascript-es6-es7-es10-where-are-we-8ac044dfd964) 
+- [What's New In DevTools (Chrome 80)  |  Web  |  Google Developers](https://developers.google.com/web/updates/2019/12/devtools?utm_source=feed&utm_medium=feed&utm_campaign=updates_feed) 
 ### November 21, 2019 
 - [Algebraic Data Types: Things I wish someone had explained about functional programming](https://jrsinclair.com/articles/2019/algebraic-data-types-what-i-wish-someone-had-explained-about-functional-programming/) 
 ### November 11, 2019 
