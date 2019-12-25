@@ -105,6 +105,9 @@
 
 
 
+
+### December 26, 2019 
+- [7 insights from the State of JS 2019 |> News and podcasts for developers |> Changelog](https://changelog.com/posts/7-insights-from-the-state-of-js-2019) 
 ### December 9, 2019 
 - [WebAssembly Core is now an official web standard - SD Times](https://sdtimes.com/webdev/webassembly-core-is-now-an-official-web-standard/) 
 - [The Theistic Irreducible Complexity Argument Debunked Using… Computer Science? - Qvault](https://qvault.io/2019/12/05/gods-irreducible-complexity-debunked-using-computer-science/?utm_source=rss&utm_medium=rss&utm_campaign=gods-irreducible-complexity-debunked-using-computer-science) 
