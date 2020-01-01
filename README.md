@@ -106,6 +106,9 @@
 
 
 
+
+### January 2, 2020 
+- [Helping Browsers Optimize With The CSS Contain Property — Smashing Magazine](https://www.smashingmagazine.com/2019/12/browsers-containment-css-contain-property/) 
 ### December 26, 2019 
 - [7 insights from the State of JS 2019 |> News and podcasts for developers |> Changelog](https://changelog.com/posts/7-insights-from-the-state-of-js-2019) 
 ### December 9, 2019 
