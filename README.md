@@ -107,6 +107,9 @@
 
 
 
+
+### February 19, 2020 
+- [evanw/esbuild: An extremely fast JavaScript bundler and minifier](https://github.com/evanw/esbuild) 
 ### January 2, 2020 
 - [Helping Browsers Optimize With The CSS Contain Property — Smashing Magazine](https://www.smashingmagazine.com/2019/12/browsers-containment-css-contain-property/) 
 ### December 26, 2019 
