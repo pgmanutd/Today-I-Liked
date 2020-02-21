@@ -108,6 +108,9 @@
 
 
 
+
+### February 21, 2020 
+- [Announcing TypeScript 3.8 | TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-3-8/) 
 ### February 19, 2020 
 - [evanw/esbuild: An extremely fast JavaScript bundler and minifier](https://github.com/evanw/esbuild) 
 - [s-macke/VoxelSpace: Terrain rendering algorithm in less than 20 lines of code](https://github.com/s-macke/VoxelSpace) 
