@@ -109,6 +109,9 @@
 
 
 
+
+### February 25, 2020 
+- [Fixing memory leaks in web applications | Read the Tea Leaves](https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/) 
 ### February 21, 2020 
 - [Announcing TypeScript 3.8 | TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-3-8/) 
 ### February 19, 2020 
