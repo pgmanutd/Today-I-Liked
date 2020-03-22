@@ -110,6 +110,9 @@
 
 
 
+
+### March 23, 2020 
+- [GoogleChromeLabs/react-adaptive-hooks: Deliver experiences best suited to a user's device and network constraints](https://github.com/GoogleChromeLabs/react-adaptive-hooks) 
 ### February 25, 2020 
 - [Fixing memory leaks in web applications | Read the Tea Leaves](https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/) 
 - [Alpine.js mixes Vue, React, and minimalism | InfoWorld](https://www.infoworld.com/article/3527958/alpinejs-mixes-vue-react-and-minimalism.html#tk.rss_javascript) 
