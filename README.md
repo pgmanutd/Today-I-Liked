@@ -111,6 +111,9 @@
 
 
 
+
+### April 1, 2020 
+- [Speed at scale: what's new in web performance?](https://web.dev/speed-at-scale/) 
 ### March 23, 2020 
 - [GoogleChromeLabs/react-adaptive-hooks: Deliver experiences best suited to a user's device and network constraints](https://github.com/GoogleChromeLabs/react-adaptive-hooks) 
 - [An experimental JavaScript toolchain | Rome](https://romejs.dev/) 
