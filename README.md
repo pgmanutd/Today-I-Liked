@@ -112,6 +112,9 @@
 
 
 
+
+### April 17, 2020 
+- [What forces layout/reflow. The comprehensive list.](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) 
 ### April 1, 2020 
 - [Speed at scale: what's new in web performance?](https://web.dev/speed-at-scale/) 
 - [JavaScript and Web Development InfoQ Trends Report 2020](https://www.infoq.com/articles/javascript-web-development-trends-2020/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
