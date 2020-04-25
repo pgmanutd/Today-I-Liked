@@ -113,6 +113,9 @@
 
 
 
+
+### April 25, 2020 
+- [Node.js 14.0 Improves Diagnostics and Internationalization, Adds Web Assembly System Interface](https://www.infoq.com/news/2020/04/node-js-14-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
 ### April 17, 2020 
 - [What forces layout/reflow. The comprehensive list.](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) 
 ### April 1, 2020 
