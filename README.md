@@ -117,6 +117,7 @@
 
 ### May 17, 2020 
 - [Rebuilding our tech stack for a new Facebook.com - Facebook Engineering](https://engineering.fb.com/web/facebook-redesign/) 
+- [A Complete Guide to CSS Functions | CSS-Tricks](https://css-tricks.com/complete-guide-to-css-functions/) 
 ### April 25, 2020 
 - [Node.js 14.0 Improves Diagnostics and Internationalization, Adds Web Assembly System Interface](https://www.infoq.com/news/2020/04/node-js-14-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
 - [HTML DOM - Common tasks of managing HTML DOM with vanilla JavaScript](https://htmldom.dev/) 
