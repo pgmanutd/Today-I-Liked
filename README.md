@@ -115,6 +115,9 @@
 
 
 
+
+### June 21, 2020 
+- [Mozilla's WebXR Viewer 2.0 Experiments with WebXR-Compliant JavaScript API for iOS](https://www.infoq.com/news/2020/06/webxr-viewer-2-ios-mozilla/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
 ### May 17, 2020 
 - [Rebuilding our tech stack for a new Facebook.com - Facebook Engineering](https://engineering.fb.com/web/facebook-redesign/) 
 - [A Complete Guide to CSS Functions | CSS-Tricks](https://css-tricks.com/complete-guide-to-css-functions/) 
