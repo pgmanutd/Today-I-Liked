@@ -119,6 +119,7 @@
 
 ### June 29, 2020 
 - [Web Animations API Now Supported in All Evergreen Browsers](https://www.infoq.com/news/2020/06/web-animations-evergreen-browser/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
+- [Beyond Responsive Design, Responsive Websites - Kilian Valkhof at HalfStack](https://www.infoq.com/news/2020/06/responsive-design-media-queries/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
 ### June 21, 2020 
 - [Mozilla's WebXR Viewer 2.0 Experiments with WebXR-Compliant JavaScript API for iOS](https://www.infoq.com/news/2020/06/webxr-viewer-2-ios-mozilla/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
 - [WebAssembly Extended with Hot Reloading, Remote Debugging and Uniform Hardware Access](https://www.infoq.com/news/2020/06/webassembly-debug-warduino/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
