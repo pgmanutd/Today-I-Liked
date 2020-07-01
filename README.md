@@ -117,6 +117,9 @@
 
 
 
+
+### July 1, 2020 
+- [Should I write a test or fix a bug?](https://kentcdodds.com/blog/should-i-write-a-test-or-fix-a-bug) 
 ### June 29, 2020 
 - [Web Animations API Now Supported in All Evergreen Browsers](https://www.infoq.com/news/2020/06/web-animations-evergreen-browser/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
 - [Beyond Responsive Design, Responsive Websites - Kilian Valkhof at HalfStack](https://www.infoq.com/news/2020/06/responsive-design-media-queries/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global) 
