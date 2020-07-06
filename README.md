@@ -118,6 +118,9 @@
 
 
 
+
+### July 6, 2020 
+- [Uncommon CSS Properties](https://ishadeed.com/article/uncommon-css/) 
 ### July 1, 2020 
 - [Should I write a test or fix a bug?](https://kentcdodds.com/blog/should-i-write-a-test-or-fix-a-bug) 
 - [When I follow TDD](https://kentcdodds.com/blog/when-i-follow-tdd) 
