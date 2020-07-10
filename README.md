@@ -119,6 +119,9 @@
 
 
 
+
+### July 10, 2020 
+- [Announcing TypeScript 4.0 Beta | TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-4-0-beta/) 
 ### July 6, 2020 
 - [Uncommon CSS Properties](https://ishadeed.com/article/uncommon-css/) 
 ### July 1, 2020 
