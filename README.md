@@ -121,6 +121,9 @@
 
 
 
+
+### August 22, 2020 
+- [TypeScript: Handbook - TypeScript 4.0](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-0.html) 
 ### August 12, 2020 
 - [React v17.0 Release Candidate: No New Features – React Blog](https://reactjs.org/blog/2020/08/10/react-v17-rc.html) 
 ### July 10, 2020 
