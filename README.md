@@ -125,6 +125,7 @@
 
 ### October 4, 2020 
 - [TypeScript 4.1 beta brings template literal types | InfoWorld](https://www.infoworld.com/article/3576004/typescript-41-beta-brings-template-literal-types.html#tk.rss_javascript) 
+- [Introducing the New JSX Transform – React Blog](https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html) 
 ### August 22, 2020 
 - [TypeScript: Handbook - TypeScript 4.0](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-0.html) 
 ### August 12, 2020 
