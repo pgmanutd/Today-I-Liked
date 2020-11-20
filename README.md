@@ -124,6 +124,9 @@
 
 
 
+
+### November 20, 2020 
+- [Better JS scheduling with isInputPending()](https://web.dev/isinputpending/) 
 ### October 25, 2020 
 - [Using WebXR With Babylon.js — Smashing Magazine](https://www.smashingmagazine.com/2020/10/using-webxr-with-babylonjs/) 
 ### October 4, 2020 
