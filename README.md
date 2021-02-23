@@ -126,6 +126,9 @@
 
 
 
+
+### February 23, 2021 
+- [Before You memo() — Overreacted](https://overreacted.io/before-you-memo/) 
 ### November 27, 2020 
 - [Performance · microsoft/TypeScript Wiki](https://github.com/microsoft/TypeScript/wiki/Performance#preferring-interfaces-over-intersections) 
 ### November 20, 2020 
