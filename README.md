@@ -127,6 +127,9 @@
 
 
 
+
+### April 2, 2021 
+- [A Complete Guide To Accessible Front-End Components — Smashing Magazine](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/) 
 ### February 23, 2021 
 - [Before You memo() — Overreacted](https://overreacted.io/before-you-memo/) 
 ### November 27, 2020 
