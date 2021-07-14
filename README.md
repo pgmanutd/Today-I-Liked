@@ -128,6 +128,9 @@
 
 
 
+
+### July 14, 2021 
+- [npm audit: Broken by Design — Overreacted](https://overreacted.io/npm-audit-broken-by-design/) 
 ### April 2, 2021 
 - [A Complete Guide To Accessible Front-End Components — Smashing Magazine](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/) 
 ### February 23, 2021 
