@@ -132,6 +132,7 @@
 
 ### July 27, 2021 
 - [Gatsby Serverless Functions And The International Space Station — Smashing Magazine](https://www.smashingmagazine.com/2021/07/gatsby-serverless-functions-international-space-station/) 
+- [TypeScript 4.4 brings performance boosts | InfoWorld](https://www.infoworld.com/article/3626459/typescript-44-brings-performance-boosts.html#tk.rss_javascript) 
 ### July 14, 2021 
 - [npm audit: Broken by Design — Overreacted](https://overreacted.io/npm-audit-broken-by-design/) 
 ### April 2, 2021 
